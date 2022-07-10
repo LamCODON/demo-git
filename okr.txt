@@ -1,0 +1,9 @@
+Objective
+Trau dồi đủ kiến thức front-end để có thể đi thực tập càng sớm càng tốt
+Bản thân tiếp cận vs coong việc từ sớm -> giúp tạo ra kinh tế từ sớm -> tích lũy kinh nghiệm trong nghề từ sớm để có một mức lương ổn khi ra trường.
+Làm nyc phải tiếc.
+
+KLs
+1 tháng đầu: Thành thạo sử dụng HTML, CSS khi build 1 trang web, luyện được style code. 
+4 tháng tới: có thể tự build lại 1 trang web mình thích bằng cách sử dụng tích hợp nhiều ngôn ngữ HTML, CSS, boostrap, JS.
+2 tháng cuối: bắt đầu đi thực tập.
